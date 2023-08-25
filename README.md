@@ -27,3 +27,5 @@
 
 > [!NOTE] 
 Liberdade ≠ Gratuidade pelo menso em não em 100% dos casos
+
+Jesus da computação - Stalman - GNU
