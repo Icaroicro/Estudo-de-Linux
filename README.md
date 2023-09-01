@@ -37,7 +37,7 @@ Jesus da computação - Stalman - GNU
 
 #### Navigação:
 ---
-* cd: Mudar de diretório.
+* cd (Change directory): Mudar de diretório.
 * ls: Listar arquivos e diretórios.
 * pwd: Mostrar o diretório atual.
 * mkdir: Criar um diretório.
