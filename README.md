@@ -112,3 +112,8 @@ Jesus da computação - Stalman - GNU
 
 * exit ou Ctrl + D: Sair do terminal.
 Esses são apenas alguns dos comandos básicos e essenciais do Linux. O sistema operacional Linux oferece uma vasta gama de comandos e utilitários para diversas tarefas. Conforme você ganha mais experiência, poderá explorar comandos mais avançados e específicos para suas necessidades.
+
+#### Algumas coisas fundamentais para trabalhar no Linux:
+
+1. Trabalhar com tudo minúsculo
+2. Separação entre comando/parâmetro/argumento utilizar pelo menos um espaço em branco.
