@@ -115,5 +115,5 @@ Esses são apenas alguns dos comandos básicos e essenciais do Linux. O sistema 
 
 #### Algumas coisas fundamentais para trabalhar no Linux:
 
-1. Trabalhar com tudo minúsculo.
+1. Trabalhar com tudo minúsculo (Com exceção ao Unix arquivo, onde se pode encontar letras maiúsculas).
 2. Separação entre comando/parâmetro/argumento utilizar pelo menos um espaço em branco.
